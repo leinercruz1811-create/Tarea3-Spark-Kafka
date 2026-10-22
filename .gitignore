@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+sensor_historical.csv
+resultado_resumen_sensores/
+temperatura_promedio_sensor.png
+alertas_por_sensor.png
+.DS_Store
